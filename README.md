@@ -1,6 +1,6 @@
 # mruby-trusterd-basicauth
 ## exmplae
-```
+```ruby
 s.set_access_checker_cb {                                                        
                                                                                  
   if s.uri =~ /^\/auth\//                                                        
