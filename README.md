@@ -1,5 +1,5 @@
 # mruby-trusterd-basicauth
-## exmplae
+## example
 ```ruby
 s.set_access_checker_cb {                                                        
                                                                                  
